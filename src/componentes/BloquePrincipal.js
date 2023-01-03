@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import './BloquePrincipal.css';
-import TestPic from '../imagenes/test-pic.jpg';
+import Valido from '../imagenes/valido.png';
+import Pipi from '../imagenes/pipi.png';
+import Noe from '../imagenes/noe.png';
+import Lucia from '../imagenes/lucia.png';
+import Marina from '../imagenes/marina.png';
 import { BloqueDedicatoria } from './BloqueDedicatoria';
 
 export const BloquePrincipal = () => {
@@ -16,11 +20,11 @@ export const BloquePrincipal = () => {
     <div>
         <div className='bloque-caras'>
 
-            <img src={TestPic} alt='Valido' onClick={e => {setNombre(e.target.alt)}}/>
-            <img src={TestPic} alt='Pipi' onClick={e => {setNombre(e.target.alt)}}/>
-            <img src={TestPic} alt='Lucia' onClick={e => {setNombre(e.target.alt)}}/>
-            <img src={TestPic} alt='Marina' onClick={e => {setNombre(e.target.alt)}}/>
-            <img src={TestPic} alt='Noe' onClick={e => {setNombre(e.target.alt)}}/>
+            <img src={Valido} alt='Valido' onClick={e => {setNombre(e.target.alt)}}/>
+            <img src={Pipi} alt='Pipi' onClick={e => {setNombre(e.target.alt)}}/>
+            <img src={Lucia} alt='Lucia' onClick={e => {setNombre(e.target.alt)}}/>
+            <img src={Marina} alt='Marina' onClick={e => {setNombre(e.target.alt)}}/>
+            <img src={Noe} alt='Noe' onClick={e => {setNombre(e.target.alt)}}/>
 
         </div>
 
