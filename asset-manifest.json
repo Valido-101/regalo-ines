@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/regalo-ines/static/css/main.00cb26c0.css",
-    "main.js": "/regalo-ines/static/js/main.f56a36c7.js",
+    "main.css": "/regalo-ines/static/css/main.3c8ebce2.css",
+    "main.js": "/regalo-ines/static/js/main.4c5ea576.js",
     "static/media/pipi.png": "/regalo-ines/static/media/pipi.1b5e40f85ffc62b8a458.png",
     "static/media/lucia.png": "/regalo-ines/static/media/lucia.3df82e1e8951d168694f.png",
     "static/media/valido.png": "/regalo-ines/static/media/valido.9bba5f73e6283dc8fafb.png",
     "static/media/marina.png": "/regalo-ines/static/media/marina.d7eebff5e5ef8cd39691.png",
     "static/media/noe.png": "/regalo-ines/static/media/noe.8635ad03588d233dfc72.png",
     "index.html": "/regalo-ines/index.html",
-    "main.00cb26c0.css.map": "/regalo-ines/static/css/main.00cb26c0.css.map",
-    "main.f56a36c7.js.map": "/regalo-ines/static/js/main.f56a36c7.js.map"
+    "main.3c8ebce2.css.map": "/regalo-ines/static/css/main.3c8ebce2.css.map",
+    "main.4c5ea576.js.map": "/regalo-ines/static/js/main.4c5ea576.js.map"
   },
   "entrypoints": [
-    "static/css/main.00cb26c0.css",
-    "static/js/main.f56a36c7.js"
+    "static/css/main.3c8ebce2.css",
+    "static/js/main.4c5ea576.js"
   ]
 }
