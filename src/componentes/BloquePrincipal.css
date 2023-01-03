@@ -1,10 +1,14 @@
+body{
+    width: 100%;
+    justify-content: center;
+}
+
 .bloque-caras{
     border: 10px solid black;
     display: flex;
-    padding: 20px;
     flex-flow: row wrap;
     justify-content: space-between;
-    align-items: center;
+    justify-items: center;
 }
 
 img{
