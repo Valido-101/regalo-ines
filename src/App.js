@@ -1,22 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+import { BloquePrincipal } from './componentes/BloquePrincipal';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        
+        <div className='components'>
+
+          <h1>¡Te queremos, Inés!</h1>
+
+          <h3>Toca alguna de las fotos para ver tu dedicatoria</h3>
+
+          <BloquePrincipal></BloquePrincipal>
+        </div>
+
       </header>
     </div>
   );
